@@ -72,7 +72,7 @@ with list-style and padding */
   list-style-position: inside;
   padding: 0 45px 0 38px;
 }
-/*used image center and padding helped with centering the image */
+/*used image center and margin to get image centered */
 img.center {
 display: block;
 margin: 0 auto;

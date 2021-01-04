@@ -76,4 +76,5 @@ with list-style and padding */
 img.center {
 display: block;
 margin: 0 auto;
+padding:  50px 0 50px 0;
 }
